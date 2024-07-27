@@ -2,8 +2,6 @@
 
 I'm an Entry-Level Support Engineer with a strong foundation in computer hardware, networking, and server management Looking for work oppourtunity, Passionate about solving technical problems and optimizing systems and computer Networks, I have experience with various technologies including Linux , AWS, and SQL databases,
 
-![Profile Banner](https://via.placeholder.com/1200x400?text=Your+Profile+Banner) <!-- Replace with your own banner image -->
-
 ## 🚀 Skills & Technologies
 
 ### 🖥️ **Computer Hardware**
@@ -65,7 +63,7 @@ I'm an Entry-Level Support Engineer with a strong foundation in computer hardwar
 
 You can download my resume in PDF format from the following link:
 
-[Download My Resume](https://example.com/your-resume.pdf) <!-- Replace with the actual URL to your resume -->
+[Download My Resume](https://drive.google.com/file/d/1obfLLhaNoNQVEkVwj2vmhUaAbyiRZNNE/view?usp=sharing) <!-- Replace with the actual URL to your resume -->
 
 ## 📫 Connect with Me
 
@@ -83,7 +81,7 @@ You can download my resume in PDF format from the following link:
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 ![CCNA](https://img.shields.io/badge/-CCNA-0099FF?logo=cisco&logoColor=white)
 
-## TOGGLE DARK MODE 
+## 
 
 ## 📊 My GitHub Stats
 
