@@ -81,11 +81,25 @@ You can download my resume in PDF format from the following link:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs) <!-- Replace with your GitHub username -->
 
-## 
+## License and certificates
+
+<img src="https://github.com/user-attachments/assets/2a0e82ee-687c-43b3-a98c-c45f2ac244ba" alt="description" width="400"/>
+<img src="https://github.com/user-attachments/assets/196002eb-69f1-4571-967e-0b1b9695463d" alt="description" width="400"/>
+<img src="https://github.com/user-attachments/assets/7f5cff02-67e6-4b83-97c5-60bea0331474" alt="description" width="400"/>
+<img src="https://github.com/user-attachments/assets/702be3b8-059c-49ad-9c54-7c08ed5512fa" alt="description" width="400"/>
+<img src="https://github.com/user-attachments/assets/e050a0a2-03ae-497a-b963-9a0882b4578a" alt="description" width="400"/>
+<img src="https://github.com/user-attachments/assets/84deba3d-341c-41b7-9969-e61e7d39286d" alt="description" width="400"/>
+<img src="https://github.com/user-attachments/assets/a4bd081d-58f8-4607-8906-73000b2458f9" alt="description" width="400"/>
+<img src="https://github.com/user-attachments/assets/beee9885-ba25-4b06-9615-7d2fd5e14466" alt="description" width="400"/>
+
+## MORE THAN 9 MICROSOFT BADGES AND 2 TROPIHES IN FRONT END DEVELOPMENT AND EDITING ( LEVEL 5 MICROSOFT LERNER ) 
+
+             
+<img src="https://github.com/user-attachments/assets/78d339f2-4226-4b24-8fa5-81d5429a5cd0" width="600"/>
+<img src="https://github.com/user-attachments/assets/7b6bb8df-68fd-46b3-b35b-e14f07ee1ddb" width="400"/>
+<img src="https://github.com/user-attachments/assets/632b9f59-5bfa-4a6e-95bd-05c2e945196e" width="400"/>
 
 ## 📊 My GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact) <!-- Replace with your GitHub username -->
 
 Thanks for visiting my GitHub profile! Feel free to reach out if you have any questions or just want to connect. 😊
 
