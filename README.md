@@ -2,6 +2,14 @@
 
 I'm an Entry-Level Support Engineer with a strong foundation in computer hardware, networking, and server management Looking for work oppourtunity, Passionate about solving technical problems and optimizing systems and computer Networks, I have experience with various technologies including Linux , AWS, and SQL databases,
 
+## 🛠️ Tools & Technologies
+
+![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D4?logo=microsoft-windows&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![CCNA](https://img.shields.io/badge/-CCNA-0099FF?logo=cisco&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-003B57?logo=sql&logoColor=white)
+
 ## 🚀 Skills & Technologies
 
 ### 🖥️ **Computer Hardware**
@@ -72,14 +80,6 @@ You can download my resume in PDF format from the following link:
 - [Email](mailto:paragparag800@gmail.com)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs) <!-- Replace with your GitHub username -->
-
-## 🛠️ Tools & Technologies
-
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-003B57?logo=sql&logoColor=white)
-![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D4?logo=microsoft-windows&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-![CCNA](https://img.shields.io/badge/-CCNA-0099FF?logo=cisco&logoColor=white)
 
 ## 
 
