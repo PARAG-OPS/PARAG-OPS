@@ -79,8 +79,6 @@ You can download my resume in PDF format from the following link:
 - [Microsoft](https://learn.microsoft.com/en-us/users/paragthapliyal-4004/)
 - [Email](mailto:paragparag800@gmail.com)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs) <!-- Replace with your GitHub username -->
-
 ## License and certificates
 
 <img src="https://github.com/user-attachments/assets/2a0e82ee-687c-43b3-a98c-c45f2ac244ba" alt="description" width="400"/>
