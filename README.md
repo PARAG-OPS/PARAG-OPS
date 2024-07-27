@@ -1,6 +1,6 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm PARAG THAPLIYAL 
 
-I'm an Entry-Level Support Engineer with a strong foundation in computer hardware, networking, and server management. Passionate about solving technical problems and optimizing systems, I have experience with various technologies including AWS, SQL databases, and Linux. 
+I'm an Entry-Level Support Engineer with a strong foundation in computer hardware, networking, and server management Looking for work oppourtunity, Passionate about solving technical problems and optimizing systems and computer Networks, I have experience with various technologies including Linux , AWS, and SQL databases,
 
 ![Profile Banner](https://via.placeholder.com/1200x400?text=Your+Profile+Banner) <!-- Replace with your own banner image -->
 
@@ -22,25 +22,28 @@ I'm an Entry-Level Support Engineer with a strong foundation in computer hardwar
 - Server maintenance
 
 ### ☁️ **AWS**
-- EC2, S3, RDS
+- EC2, S3, MFA
 - Cloud infrastructure management
 - Basic deployment and monitoring
-
-### 🗃️ **DBMS & SQL**
-- Database design and management
-- SQL queries and optimization
-- Data backup and recovery
 
 ### 🐧 **Linux**
 - System installation and configuration
 - Command-line interface
 - Scripting and automation
 
-## 💼 Experience
+### 🗃️ **DBMS & SQL**
+- Database design and management
+- SQL queries and optimization
+- Data backup and recovery
 
-**Entry-Level Support Engineer**  
-[Company Name] | [Year] - Present  
-- Provide technical support and troubleshooting for hardware and software issues.
+## 💼 Experience
+****  
+  [FREELANCER] | [2021-2024] - Present  
+- During my Study Era from 2021-2024 i worked as a Freelancer in many IT operations project and i 
+  also worked under my Study facuilty IICS and with IICS i worked with all of There branches and 
+  also as a Freelancer i worked in many IT operations Projects , Because of all those Project and 
+  work i was able to unlock new skills and get practiced in IT operations and Teamwork . 
+- I Provide technical support and troubleshooting for hardware and software issues.
 - Manage and maintain network infrastructure and servers.
 - Assist with AWS deployments and database management tasks.
 
@@ -66,9 +69,9 @@ You can download my resume in PDF format from the following link:
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/yourusername)
-- [Email](mailto:your.email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/parag-thapliyal-47741a285/)
+- [Microsoft](https://learn.microsoft.com/en-us/users/paragthapliyal-4004/)
+- [Email](mailto:paragparag800@gmail.com)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs) <!-- Replace with your GitHub username -->
 
@@ -79,6 +82,8 @@ You can download my resume in PDF format from the following link:
 ![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D4?logo=microsoft-windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 ![CCNA](https://img.shields.io/badge/-CCNA-0099FF?logo=cisco&logoColor=white)
+
+## TOGGLE DARK MODE 
 
 ## 📊 My GitHub Stats
 
