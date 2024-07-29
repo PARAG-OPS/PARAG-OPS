@@ -1,6 +1,6 @@
 # 👋 Hi, I'm PARAG THAPLIYAL 
 
-I'm an Entry-Level Support Engineer with a strong foundation in computer hardware, networking, and server management Looking for work oppourtunity, Passionate about solving technical problems and optimizing systems and computer Networks, I have experience with various technologies including Linux , AWS, and SQL databases,
+I'm an Entry-Level Support Engineer with a strong foundation in computer hardware, networking, and server management Looking for work oppourtunity, Passionate about solving technical problems and optimizing systems and computer Networks, I have experience with various technologies including Linux , AWS, and SQL databases.
 
 ## 🛠️ Tools & Technologies
 
@@ -9,6 +9,17 @@ I'm an Entry-Level Support Engineer with a strong foundation in computer hardwar
 ![CCNA](https://img.shields.io/badge/-CCNA-0099FF?logo=cisco&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=sql&logoColor=white)
+
+## 💼 Experience
+****  
+  [FREELANCER] | [2021-2024] - Present  
+- During my Study Era from 2021-2024 i worked as a Freelancer in many IT operations project and i 
+  also worked under my Study facuilty IICS and with IICS i worked with all of There branches and 
+  also as a Freelancer i worked in many IT operations Projects , Because of all those Project and 
+  work i was able to unlock new skills and get practiced in IT operations and Teamwork . 
+- I Provide technical support and troubleshooting for hardware and software issues.
+- Manage and maintain network infrastructure and servers.
+- Assist with AWS deployments and database management tasks.
 
 ## 🚀 Skills & Technologies
 
@@ -27,32 +38,20 @@ I'm an Entry-Level Support Engineer with a strong foundation in computer hardwar
 - Active Directory management
 - Server maintenance
 
-### ☁️ **AWS**
-- EC2, S3, MFA
-- Cloud infrastructure management
-- Basic deployment and monitoring
-
 ### 🐧 **Linux**
 - System installation and configuration
 - Command-line interface
 - Scripting and automation
 
+### ☁️ **AWS**
+- EC2, S3, MFA
+- Cloud infrastructure management
+- Basic deployment and monitoring
+
 ### 🗃️ **DBMS & SQL**
 - Database design and management
 - SQL queries and optimization
-- Data backup and recovery
-
-## 💼 Experience
-****  
-  [FREELANCER] | [2021-2024] - Present  
-- During my Study Era from 2021-2024 i worked as a Freelancer in many IT operations project and i 
-  also worked under my Study facuilty IICS and with IICS i worked with all of There branches and 
-  also as a Freelancer i worked in many IT operations Projects , Because of all those Project and 
-  work i was able to unlock new skills and get practiced in IT operations and Teamwork . 
-- I Provide technical support and troubleshooting for hardware and software issues.
-- Manage and maintain network infrastructure and servers.
-- Assist with AWS deployments and database management tasks.
-
+- 
 ## 📚 Projects
 
 ### 🔧 **Hardware Diagnostic Tool**
