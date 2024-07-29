@@ -1,5 +1,5 @@
 ![Light Mode](https://raw.githubusercontent.com/your-username/your-repo/main/images/logo-light.svg#gh-light-mode-only)
-![Dark Mode](https://raw.githubusercontent.com/your-username/your-repo/main/images/logo-dark.svg#gh-dark-mode-only)
+![Dark Mode](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapers.com%2Fplain-black-background&psig=AOvVaw1YkeUo9KACSvsEScFMDv_a&ust=1722328474888000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMi_7aDsyocDFQAAAAAdAAAAABAE)
 
 # 👋 Hi, I'm PARAG THAPLIYAL 
 
