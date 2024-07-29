@@ -1,6 +1,3 @@
-![Light Mode](https://raw.githubusercontent.com/your-username/your-repo/main/images/logo-light.svg#gh-light-mode-only)
-![Dark Mode](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapers.com%2Fplain-black-background&psig=AOvVaw1YkeUo9KACSvsEScFMDv_a&ust=1722328474888000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMi_7aDsyocDFQAAAAAdAAAAABAE)
-
 # 👋 Hi, I'm PARAG THAPLIYAL 
 
 I'm an Entry-Level Support Engineer with a strong foundation in computer hardware, networking, and server management Looking for work oppourtunity, Passionate about solving technical problems and optimizing systems and computer Networks, I have experience with various technologies including Linux , AWS, and SQL databases.
